@@ -1,2 +1,2 @@
-# dias-resolusi
+# Rama-resolusi
 Repository untuk menyipan rencana kedepannya
