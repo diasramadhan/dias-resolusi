@@ -1,5 +1,8 @@
 Rencana Belajar
 
 -Python
+  *Data Analyst
 -Expert java
+  *Java Stream
+  *Java Database
 -C++
