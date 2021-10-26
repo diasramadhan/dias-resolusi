@@ -5,4 +5,6 @@ Rencana Belajar
 -Expert java
   *Java Stream
   *Java Database
+  *Java Lombok
 -C++
+  *Struktur Data
